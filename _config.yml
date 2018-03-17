@@ -1,9 +1,9 @@
 # Site settings
-title: Klaus Mikaelson's Blog
-SEOTitle: 周老大的博客 | Klaus Mikaelson
+title: "Klaus Mikaelson's Blog"
+SEOTitle: "周老大的博客 | Klaus Mikaelson"
 header-img: img/post-bg-desk.jpg
-email: love20141002@126.com
-description: "Every failure is leading towards success."
+email: "love20141002@126.com"
+description: "Be quiet and move fast"
 keyword: "周老大, Klaus Mikaelson, SpringBoot, Dubbo, 分布式, Java, 分库分表, 架构师"
 url: "http://klaus20141002.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -19,11 +19,11 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     Olderzhou
-zhihu_username:     niklaus
-github_username:    klaus20141002
+zhihu_username: niklaus
+github_username: klaus20141002
 #facebook_username:  Olderzhou
-jianshu_username:   NiklausJulie
-twitter_username:   niklausjulie
+jianshu_username: NiklausJulie
+twitter_username: niklausjulie
 
 
 
@@ -51,13 +51,13 @@ gems: [jekyll-paginate]
 markdown: kramdown
 highlighter: rouge
 kramdown:
-  input: GFM                            # use Github Flavored Markdown !important
+input: GFM                            # use Github Flavored Markdown !important
 
 
 
 # 评论系统
 # Disqus（https://disqus.com/）
- disqus_username: disqus_I3xfd5sSS6
+disqus_username: disqus_I3xfd5sSS6
 
 # Gitalk
 #gitalk:
