@@ -1,29 +1,29 @@
 # Site settings
-title: BY Blog
+title: Klaus Mikaelson's Blog
 SEOTitle: 周老大的博客 | Klaus Mikaelson
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: love20141002@126.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 周老大的博客, Klaus Mikaelson, 周老大, Java, 分库分表, 架构师"
+keyword: "周老大, Klaus Mikaelson, SpringBoot, Dubbo, 分布式, Java, 分库分表, 架构师"
 url: "http://klaus20141002.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/klaus20141002/klaus20141002.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "把今天最好的表现当作明天最新的起点..."
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# weibo_username:     Olderzhou
+zhihu_username:     niklaus
+github_username:    klaus20141002
+#facebook_username:  Olderzhou
+jianshu_username:   NiklausJulie
+twitter_username:   niklausjulie
 
 
 
@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+ disqus_username: disqus_I3xfd5sSS6
 
 # Gitalk
 #gitalk:
@@ -99,11 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "OlderZhou",
+        href: "https://klaus20141002.github.io/"
     },{
         title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        href: "https://www.jianshu.com/users/1e807a2bcf0f/timeline"
     },{
         title: "Apple",
         href: "https://apple.com"
