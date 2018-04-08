@@ -7,7 +7,7 @@ description: "Be quiet and move fast"
 keyword: "周老大, Klaus Mikaelson, SpringBoot, Dubbo, 分布式, Java, 分库分表, 架构师"
 url: "http://klaus20141002.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klaus20141002/klaus20141002.github.io.git" # you code repository
+github_repo: "https://github.com/olderzhou/olderzhou.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 RSS: false
 # weibo_username:     Olderzhou
 zhihu_username: niklaus
-github_username: klaus20141002
+github_username: olderzhou
 #facebook_username:  Olderzhou
 jianshu_username: NiklausJulie
 twitter_username: niklausjulie
@@ -100,7 +100,7 @@ service-worker: true
 friends: [
     {
         title: "OlderZhou",
-        href: "https://klaus20141002.github.io/"
+        href: "https://olderzhou.github.io/"
     },{
         title: "简书·BY",
         href: "https://www.jianshu.com/users/1e807a2bcf0f/timeline"
