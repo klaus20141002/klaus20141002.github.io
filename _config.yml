@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: "love20141002@126.com"
 description: "Be quiet and move fast"
 keyword: "周老大, Klaus Mikaelson, SpringBoot, Dubbo, 分布式, Java, 分库分表, 架构师"
-url: "http://klaus20141002.github.io"          # your host, for absolute URL
+url: "http://olderzhou.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/olderzhou/olderzhou.github.io.git" # you code repository
 
