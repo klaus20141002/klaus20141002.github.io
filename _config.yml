@@ -99,16 +99,13 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "OlderZhou",
+        title: "Github.周老大",
         href: "https://olderzhou.github.io/"
     },{
-        title: "简书·BY",
+        title: "简书·周老大",
         href: "https://www.jianshu.com/u/1e807a2bcf0f"
     },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Google Developer",
+        href: "https://developer.google.com/"
     }
 ]
