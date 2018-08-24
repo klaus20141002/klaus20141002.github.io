@@ -57,7 +57,7 @@ input: GFM                            # use Github Flavored Markdown !important
 
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: disqus_I3xfd5sSS6
+#disqus_username: disqus_I3xfd5sSS6
 
 # Gitalk
 #gitalk:
